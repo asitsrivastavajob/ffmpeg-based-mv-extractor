@@ -3,5 +3,5 @@
 
 **Usage Command**
 
-mv_extractor.exe    		file-name.mp4
+mv_extractor.exe    		sample.mp4
 
